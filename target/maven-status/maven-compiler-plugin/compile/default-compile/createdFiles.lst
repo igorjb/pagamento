@@ -1,0 +1,7 @@
+com\algaworks\model\Cliente.class
+com\algaworks\model\Status.class
+com\algaworks\model\Pagamento.class
+com\algaworks\controller\PedidoBean.class
+com\algaworks\testes\GeraTabelas.class
+com\algaworks\util\jpa\EntityManagerProducer.class
+com\algaworks\model\Pedido.class
